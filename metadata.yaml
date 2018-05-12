@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42384'
     url: http://www.gutenberg.org/2009/agents/42384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43741#Old-Friends-and-New-Fancies--An-Imaginary-Sequel-to-the-Novels-of-Jane-Austen
 gutenberg_issued: '2013-09-16'
 gutenberg_type: Text
 identifiers:
